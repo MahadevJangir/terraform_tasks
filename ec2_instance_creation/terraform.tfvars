@@ -1,0 +1,7 @@
+access_key        = "XXXXXXXXXXXXXXXXXX"
+secret_key        = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+region            = "eu-north-1"
+ami_id            = "ami-06478978e5e72679a"
+subnet_id         = "subnet-007b7a6b76e9548f8"
+instance_type     = "t3.micro"
+ami_key_pair_name = "keypair"
